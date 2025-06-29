@@ -1,52 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WELECOME&fontSize=90)
-
-<div align="center" style="display: flex; gap: 10px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SAVAGE6974" />
-  </a>
-  <a href="https://github.com/imysh578">
-    <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAVAGE6974&layout=compact&theme=nord&hide_border=true" />
-  </a>
-</div>
-
-# 👋 Hi, I'm SAVAGE6974!
-
-Welcome to my GitHub profile!
-
----
-
-## 🧑‍🎓 About Me
-
-- Student passionate about **game development**
-- Focusing on pushing the limits and learning every day
-- Eager to create, innovate, and grow as a developer
-
----
-
-## 🚀 Main Project
-
-### [MOLURANT](https://github.com/SAVAGE6974/MOLURANT)
-My proudest project.  
-Check it out and experience the fun!
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-</p>
-
----
-
-## 🏁 Motto
-
-> **DEFY THE LIMITS**
-
----
-
-Thank you for visiting my profile!  
-Let's keep breaking boundaries together.
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=WELECOME&animation=fadeIn&fontColor=232323&fontSize=70" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 ABOUT </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> I am a Korean high school student and a game developer.</li><li> If u ask me, pls sent mail: jaeminan944@icloud.com </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://www.instagram.com/be_sl1t8/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/be_sl1t8/"> </a>
+         <a href=https://savage6974.notion.site/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://savage6974.notion.site/"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=SAVAGE6974&custom_title=SAVAGE6974's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAVAGE6974&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+    
