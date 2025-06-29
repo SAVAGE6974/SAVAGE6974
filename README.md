@@ -1,3 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WELECOME&fontSize=90)
+
+<div align="center" style="display: flex; gap: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SAVAGE6974" />
+  </a>
+  <a href="https://github.com/imysh578">
+    <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAVAGE6974&layout=compact&theme=nord&hide_border=true" />
+  </a>
+</div>
+
 # 👋 Hi, I'm SAVAGE6974!
 
 Welcome to my GitHub profile!
