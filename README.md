@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 ABOUT </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> I am a Korean high school student and a game developer.</li><li> If u ask me, pls sent mail: jaeminan944@icloud.com </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> I am a Korean high school student and a game developer.</li><li> If u ask me, pls sent mail: jaeminan944@icloud.com</li><li> <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAVAGE6974&label=Profile%20views&color=0e75b6&style=flat" alt="SAVAGE6974" /> </p> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
