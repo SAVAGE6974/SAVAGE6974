@@ -21,8 +21,9 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAVAGE6974&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left; display: flex; gap: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=SAVAGE6974&show_icons=true&theme=default&hide_border=true&bg_color=180,000000,&title_color=000000&text_color=000000"
+          />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAVAGE6974&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+         </div> 
     </div>
-    
